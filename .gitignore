@@ -84,3 +84,7 @@ nb-configuration.xml
 ##############################
 .DS_Store
 /target/
+/HELP.md
+/mvnw
+/mvnw.cmd
+/.mvn/
